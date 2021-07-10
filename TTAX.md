@@ -27,6 +27,8 @@
 - 🌱 TTAX Generation curently helping for Discord server. 
 - 💬 Thanks for supporting us, if u want to ask!
 - 📫 Email me at [ttaxgeneration@gmail.com](mailto:ttaxgeneration@gmail.com).
+- Join our support server : [HOME](https://discord.gg/5t2VFJQQnS)
+-                           [Route66](https://discord.gg/ykNNkdk9HK)
 
 
 
@@ -41,9 +43,9 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="TTAX Generation GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="TTAX Generation" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="TTAX Generation" />
 
 -----
 Credits: [ttaxgeneration](https://github.com/ttaxgeneration)
