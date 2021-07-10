@@ -45,7 +45,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=ttaxgeneration&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="TTAX Generation GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttaxgeneration&count_private=true&theme=radical" alt="TTAX Generation" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NicWebster96&count_private=true&theme=radical" alt="TTAX Generation" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicWebster96&count_private=true&theme=radical" alt="TTAX Generation" />
 
 -----
