@@ -21,7 +21,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-**About Me!**
+**About Us!**
 
 - 👨🏽‍💻 TTAX Generation is international Community.
 - 🌱 TTAX Generation curently helping for Discord server. 
