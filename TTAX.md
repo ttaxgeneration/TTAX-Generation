@@ -27,8 +27,9 @@
 - 🌱 TTAX Generation curently helping for Discord server. 
 - 💬 Thanks for supporting us, if u want to ask!
 - 📫 Email me at [ttaxgeneration@gmail.com](mailto:ttaxgeneration@gmail.com).
-- Join our support server : [HOME](https://discord.gg/5t2VFJQQnS)
--                           [Route66](https://discord.gg/ykNNkdk9HK)
+- Join our support server : 
+- [HOME](https://discord.gg/5t2VFJQQnS)
+- [Route66](https://discord.gg/ykNNkdk9HK)
 
 
 
