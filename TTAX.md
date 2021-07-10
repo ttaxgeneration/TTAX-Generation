@@ -37,6 +37,7 @@
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/96/javascript.png"></code> Javascript
 <code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
